@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681929431956",
+    "firebase_url": "https://swap155-212716.firebaseio.com",
+    "project_id": "swap155-212716",
+    "storage_bucket": "swap155-212716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681929431956:android:b10b62b2adfd5e5b",
+        "android_client_info": {
+          "package_name": "swap.app.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681929431956-nqsgpvj71sja349pj60g7g31i59fui0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_d6BYh8xDeYuwZS5dvbfcAizkSwJOA-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681929431956-nqsgpvj71sja349pj60g7g31i59fui0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
